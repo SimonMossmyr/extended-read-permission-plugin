@@ -24,6 +24,13 @@
   <name>Jenkins Extended Read Permission Plugin</name>
   <url>https://github.com/jenkinsci/extended-read-permission-plugin</url>
 
+  <licenses>
+    <license>
+      <name>MIT</name>
+      <url>https://opensource.org/licenses/MIT</url>
+    </license>
+  </licenses>
+
   <scm>
     <connection>scm:git:https://github.com/jenkinsci/${project.artifactId}-plugin.git</connection>
     <developerConnection>scm:git:git@github.com:jenkinsci/${project.artifactId}-plugin.git</developerConnection>
